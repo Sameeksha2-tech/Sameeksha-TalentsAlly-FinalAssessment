@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NehC-xUJ)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19714594&assignment_repo_type=AssignmentRepo)
 # Backend Intern Skill Assessment
@@ -92,3 +93,10 @@ Import your repository and click Deploy
 **Tip**: Keep your code clean, write meaningful commits, and ensure everything runs without errors.
 
 Good luck!
+=======
+# Assessment--Backend-test-Final
+
+I have pushed my code in master branch so just select master brach from dropdown
+
+here is the updated code - studio-master/studio-master/src/app/page.tsx
+>>>>>>> 515503a4a3a53ea6ab42f9b89735e7805c9311ad
